@@ -1,0 +1,16 @@
+[
+    {
+        "name": "RodionSverdlov",
+        "login": "rodionsverdloval",
+        "password": "8868a979b9b08fcc972a13d955733b75",
+        "salt": "R3FU7h5fQRdq229Ghu2V",
+        "email": "rsverdlovalexandrovich@gmail.com"
+    },
+    {
+        "name": "JmeshenkoValeriy",
+        "login": "Borrow",
+        "password": "91cf1eca8d70dfa8f6c4722f09ff491d",
+        "salt": "XTIA3VblQgp9Oa5DLaKN",
+        "email": "borrow54@gmail.com"
+    }
+]

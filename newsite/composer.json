@@ -1,0 +1,15 @@
+{
+    "name": "rodion/newsite",
+    "description": "newsite",
+    "authors": [
+        {
+            "name": "rodion"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}

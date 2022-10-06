@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.msg-error{
+    color: red;
+    font-size: 10px;
+}
+form{
+
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+.error{
+    border-bottom: 2px solid red;
+}
+input{
+    border: unset;
+    border-bottom: 1px black solid;
+    margin: 10px 0;
+    height: 40px;
+    outline: none;
+}
+label{
+    font-size: 24px;
+}
+button{
+    width: 400px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+    background: cadetblue;
+    color: white;
+    font-size: 20px;
+}
+a{
+    margin: 10px 0;
+
+    color: #3d6667;
+}
